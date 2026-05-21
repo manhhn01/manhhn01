@@ -7,32 +7,32 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               7 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.94 % 
-HTML                     4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-JavaScript               2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Markdown                 2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-JSON                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+TypeScript               10 hrs 53 mins      ████████████░░░░░░░░░░░░░   47.05 % 
+HTML                     2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+JavaScript               2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Markdown                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+YAML                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🔥 Editors: 
-Unknown Editor           14 hrs 44 mins      █████████████████░░░░░░░░   66.21 % 
-Neovim                   7 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.79 % 
+Unknown Editor           15 hrs 35 mins      █████████████████░░░░░░░░   67.33 % 
+Neovim                   7 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.67 % 
 
 💻 Operating System: 
-Mac                      22 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               47 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+TypeScript               47 repos            █████████████░░░░░░░░░░░░   51.09 % 
+JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 
 
 
- Last Updated on 20/05/2026 00:27:06 UTC
+ Last Updated on 21/05/2026 00:27:07 UTC
 <!--END_SECTION:waka-->
