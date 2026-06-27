@@ -7,13 +7,15 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 36 mins        █████████████████░░░░░░░░   68.08 % 
+YAML                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -29,5 +31,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2026 00:29:55 UTC
+ Last Updated on 27/06/2026 00:27:49 UTC
 <!--END_SECTION:waka-->
