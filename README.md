@@ -9,17 +9,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-TypeScript               1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-dosini                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+TypeScript               1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+JSON                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+dosini                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+YAML                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 28 mins       █████████████████████████   100.00 % 
+Neovim                   8 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -41,5 +41,5 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 01:49:02 UTC
+ Last Updated on 02/08/2026 01:46:06 UTC
 <!--END_SECTION:waka-->
