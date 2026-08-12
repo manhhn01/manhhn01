@@ -3,47 +3,6 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2046%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-YAML                     1 hr                ████████████░░░░░░░░░░░░░   46.98 % 
-Markdown                 36 mins             ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Go                       31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-
-🔥 Editors: 
-Neovim                   1 hr 42 mins        ████████████████████░░░░░   79.38 % 
-Antigravity CLI          26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-
-💻 Operating System: 
-Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 45 mins (34.91%)
-
-✍️ 60 lines written by AI, 26 lines written by hand (69.77% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 21 AI Prompts
-
-Gemini                   60 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 69.77% of written lines came from AI
-📄 Detailed Prompter — average 639 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 34.07% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -57,5 +16,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 00:53:46 UTC
+ Last Updated on 12/08/2026 01:00:37 UTC
 <!--END_SECTION:waka-->
