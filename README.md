@@ -9,27 +9,27 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Markdown                 4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-TypeScript               3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-YAML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Other                    5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Markdown                 4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+TypeScript               3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+YAML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 env                      1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🔥 Editors: 
-Neovim                   14 hrs 2 mins       █████████████████░░░░░░░░   68.08 % 
-Agent                    4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Cursor                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Neovim                   14 hrs 1 min        █████████████████░░░░░░░░   68.05 % 
+Agent                    4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Cursor                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 Codex CLI                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 Opencode Cli             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 💻 Operating System: 
-Linux                    20 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 9 mins (54.07%)
+⏱ AI Coding Time: 11 hrs 8 mins (54.06%)
 
 ✍️ 240 lines written by AI, 255 lines written by hand (48.48% AI-written)
 
@@ -64,5 +64,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 00:37:57 UTC
+ Last Updated on 25/08/2026 00:37:17 UTC
 <!--END_SECTION:waka-->
