@@ -9,46 +9,44 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-TypeScript               4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-Markdown                 4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-YAML                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-env                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+TypeScript               4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.51 % 
+Markdown                 3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Other                    2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+YAML                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 🔥 Editors: 
-Neovim                   14 hrs 58 mins      █████████████████░░░░░░░░   69.49 % 
-Agent                    5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Cursor                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Codex CLI                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Opencode Cli             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Neovim                   11 hrs 4 mins       ██████████████████░░░░░░░   72.65 % 
+Agent                    3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Codex CLI                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Cursor                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Linux                    21 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 22 mins (52.79%)
+⏱ AI Coding Time: 7 hrs 10 mins (47.09%)
 
 ✍️ 240 lines written by AI, 300 lines written by hand (44.44% AI-written)
 
-🔤 4,964,894 Input Tokens, 4,403,709 Output Tokens
+🔤 3,940,111 Input Tokens, 3,830,258 Output Tokens
 
-💵 $37.35 Estimated AI Cost This Week
+💵 $28.71 Estimated AI Cost This Week
 
-🧠 79 AI Sessions, 189 AI Prompts
+🧠 51 AI Sessions, 154 AI Prompts
 
 GPT                      240 lines           █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 44.44% of written lines came from AI
-📚 Verbose Prompter — average 92,200 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 79.98% of changed lines were hand-edited
+📚 Verbose Prompter — average 99,123 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 78.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -64,5 +62,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 00:38:06 UTC
+ Last Updated on 27/08/2026 05:39:39 UTC
 <!--END_SECTION:waka-->
