@@ -1,7 +1,7 @@
 ### Hi, I'm Manh 👋
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-371%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-371%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,43 +9,43 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.02 % 
-Markdown                 4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Go                       4 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-JSON                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+TypeScript               3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+Markdown                 3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+JSON                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Go                       1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.82 % 
-Codex CLI                5 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-Antigravity CLI          3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Agent                    1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Codex CLI                5 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.96 % 
+Neovim                   4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+Antigravity CLI          3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+Agent                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 💻 Operating System: 
-Linux                    20 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 24 mins (70.43%)
+⏱ AI Coding Time: 13 hrs 22 mins (93.28%)
 
-✍️ 3,140 lines written by AI, 366 lines written by hand (89.56% AI-written)
+✍️ 3,110 lines written by AI, 78 lines written by hand (97.55% AI-written)
 
-🔤 4,064,438 Input Tokens, 463,060 Output Tokens
+🔤 3,985,436 Input Tokens, 392,890 Output Tokens
 
-💵 $31.36 Estimated AI Cost This Week
+💵 $30.72 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 202 AI Prompts
+🧠 38 AI Sessions, 186 AI Prompts
 
-GPT                      3,401 lines         █████████████████████████   100.00 % 
+GPT                      3,371 lines         █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.56% of written lines came from AI
-📚 Verbose Prompter — average 3,271 characters per prompt
+🤖 AI-Driven — 97.55% of written lines came from AI
+📚 Verbose Prompter — average 2,089 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 14.4% of changed lines were hand-edited
+🚀 High AI Trust — 2.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -61,5 +61,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 02:04:57 UTC
+ Last Updated on 19/09/2026 02:08:55 UTC
 <!--END_SECTION:waka-->
