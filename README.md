@@ -1,7 +1,7 @@
 ### Hi, I'm Manh 👋
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-384%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-393%20hrs%2012%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,47 +9,47 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 16 hrs 14 mins      ███████████░░░░░░░░░░░░░░   43.00 % 
-TypeScript               9 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-Python                   7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-JavaScript               2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-HTML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Markdown                 14 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   38.29 % 
+TypeScript               10 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+Python                   7 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+JavaScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+HTML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 16 mins      ████████████████░░░░░░░░░   64.21 % 
-Neovim                   5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Codex CLI                4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Codex Exec               3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Agent                    40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Claude Code              32 hrs 9 mins       █████████████████████░░░░   82.26 % 
+Codex Exec               3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Neovim                   1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Agent                    40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Linux                    37 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 34 mins (96.79%)
+⏱ AI Coding Time: 37 hrs 52 mins (96.9%)
 
-✍️ 21,958 lines written by AI, 26 lines written by hand (99.88% AI-written)
+✍️ 28,299 lines written by AI, 26 lines written by hand (99.91% AI-written)
 
-🔤 14,279,876 Input Tokens, 2,437,208 Output Tokens
+🔤 19,440,460 Input Tokens, 3,323,474 Output Tokens
 
-💵 $592.48 Estimated AI Cost This Week
+💵 $658.23 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 375 AI Prompts
+🧠 88 AI Sessions, 402 AI Prompts
 
-GPT                      11,446 lines        █████████████░░░░░░░░░░░░   50.84 % 
-Opus                     11,066 lines        ████████████░░░░░░░░░░░░░   49.16 % 
+Opus                     22,213 lines        ███████████████████░░░░░░   76.93 % 
+GPT                      6,663 lines         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📄 Detailed Prompter — average 1,445 characters per prompt
+🤖 AI-Driven — 99.91% of written lines came from AI
+📚 Verbose Prompter — average 1,691 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -65,5 +65,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 02:28:44 UTC
+ Last Updated on 29/09/2026 03:11:52 UTC
 <!--END_SECTION:waka-->
