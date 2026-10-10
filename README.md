@@ -9,43 +9,43 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 6 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
-JavaScript               4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-TypeScript               3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Python                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Text                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Markdown                 5 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
+TypeScript               1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Python                   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Text                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Bash                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 45 mins      ████████████████████████░   97.24 % 
-Neovim                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Codex Exec               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Claude Code              14 hrs 5 mins       ████████████████████████░   96.45 % 
+Neovim                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Codex Exec               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Linux                    20 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 9 mins (99.23%)
+⏱ AI Coding Time: 14 hrs 26 mins (98.93%)
 
-✍️ 26,449 lines written by AI, 25 lines written by hand (99.91% AI-written)
+✍️ 26,343 lines written by AI, 25 lines written by hand (99.91% AI-written)
 
-🔤 12,187,026 Input Tokens, 3,161,249 Output Tokens
+🔤 11,042,212 Input Tokens, 3,041,597 Output Tokens
 
-💵 $295.29 Estimated AI Cost This Week
+💵 $277.79 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 249 AI Prompts
+🧠 41 AI Sessions, 187 AI Prompts
 
-Opus                     26,979 lines        █████████████████████████   99.90 % 
+Opus                     26,872 lines        █████████████████████████   99.90 % 
 GPT                      28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.91% of written lines came from AI
-📄 Detailed Prompter — average 1,200 characters per prompt
+📄 Detailed Prompter — average 1,300 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
@@ -63,5 +63,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 03:34:11 UTC
+ Last Updated on 10/10/2026 03:14:53 UTC
 <!--END_SECTION:waka-->
