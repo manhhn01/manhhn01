@@ -9,45 +9,45 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 16 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   40.62 % 
-JavaScript               4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-HTML                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Python                   2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Bash                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Markdown                 14 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   39.63 % 
+JavaScript               4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Python                   2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Bash                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+HTML                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
-Claude Code              37 hrs 2 mins       ███████████████████████░░   91.11 % 
-Codex Vscode             2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Neovim                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Codex Exec               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Claude Code              32 hrs 59 mins      ███████████████████████░░   90.40 % 
+Codex Vscode             2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Neovim                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Codex Exec               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Linux                    40 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    36 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 38 mins (99.95%)
+⏱ AI Coding Time: 36 hrs 27 mins (99.94%)
 
-✍️ 20,903 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 16,484 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 29,351,364 Input Tokens, 5,410,236 Output Tokens
+🔤 24,146,921 Input Tokens, 4,607,618 Output Tokens
 
-💵 $587.80 Estimated AI Cost This Week
+💵 $512.82 Estimated AI Cost This Week
 
-🧠 111 AI Sessions, 548 AI Prompts
+🧠 105 AI Sessions, 523 AI Prompts
 
-Opus                     20,098 lines        ████████████████████████░   94.31 % 
-GPT                      610 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Fable                    596 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Sonnet                   7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Opus                     15,910 lines        ████████████████████████░   94.19 % 
+GPT                      610 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Fable                    365 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Sonnet                   7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 3,380 characters per prompt
+📚 Verbose Prompter — average 3,440 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
@@ -65,5 +65,5 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 02:18:28 UTC
+ Last Updated on 20/10/2026 02:32:15 UTC
 <!--END_SECTION:waka-->
