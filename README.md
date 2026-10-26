@@ -9,39 +9,39 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 6 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.66 % 
-Go                       5 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-Text                     4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Markdown                 6 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
+Go                       5 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Text                     4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 52 mins      ███████████████████████░░   92.81 % 
-Neovim                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Claude Code              19 hrs 47 mins      ███████████████████████░░   92.78 % 
+Neovim                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 💻 Operating System: 
-Linux                    21 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 47 mins (97.09%)
+⏱ AI Coding Time: 20 hrs 42 mins (97.08%)
 
 ✍️ 12,361 lines written by AI, 24 lines written by hand (99.81% AI-written)
 
-🔤 5,431,193 Input Tokens, 581,684 Output Tokens
+🔤 5,425,936 Input Tokens, 580,766 Output Tokens
 
-💵 $64.41 Estimated AI Cost This Week
+💵 $64.38 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 179 AI Prompts
+🧠 28 AI Sessions, 175 AI Prompts
 
 Opus                     12,379 lines        █████████████████████████   99.97 % 
 Sonnet                   4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.81% of written lines came from AI
-📚 Verbose Prompter — average 2,332 characters per prompt
+📚 Verbose Prompter — average 2,384 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
@@ -59,5 +59,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 02:12:39 UTC
+ Last Updated on 26/10/2026 02:13:09 UTC
 <!--END_SECTION:waka-->
